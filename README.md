@@ -13,7 +13,7 @@ Took a break for parenting, but just completed a fast-paced 6 month full-time, i
 
 🔆Connect with me 
 lisa.donohoo@gmail.com
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/lisa-donohoo/)
+www.linkedin.com/in/lisa-donohoo
 
 ### Frontend Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
