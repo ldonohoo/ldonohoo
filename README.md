@@ -11,6 +11,10 @@ I have a BS in Computer Science from the University of Minnesota and 8+ years of
 
 Took a break for parenting, but just completed a fast-paced 6 month full-time, in-person certification for Full-Stack Web Development that included a solo project and a pro-bono project for a great entrepenuer. Totally loving it...
 
+🔆Connect with me 
+lisa.donohoo@gmail.com
+![linkedin](https://www.linkedin.com/in/lisa-donohoo/)
+
 ### Frontend Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
