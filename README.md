@@ -5,7 +5,7 @@ ldonohoo
 -->
 
 ##  Welcome 🌻
-I'm a Full Stack developer that really enjoys coding, learning new things, and working with other humans to learn, explain, and connect. I'm a really positive person and  bring enthusiasm and positivity to the teams I work on 😁
+I'm a Full Stack developer that really enjoys coding, learning new things, and working with other humans to teach, learn, and connect. I'm a really positive person and  bring enthusiasm and positivity to the teams I work on 😁
 
 I have a BS in Computer Science from the University of Minnesota and 8+ years of experience in older tech dev.
 
