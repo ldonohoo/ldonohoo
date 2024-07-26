@@ -30,8 +30,8 @@ Took a break for parenting, but just completed a fast-paced 6 month full-time, i
 ![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
-### Cloud
-[AWS Cloud Practitioner CLF-C02](https://www.credly.com/badges/6c3e8dc3-0d0e-4dc6-a364-9c55b305dc22/public_url)
+### Certifications
+[AWS Cloud Practitioner CLF-C02 - Feb 2024](https://www.credly.com/badges/6c3e8dc3-0d0e-4dc6-a364-9c55b305dc22/public_url)
 
 ### Misc 
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
