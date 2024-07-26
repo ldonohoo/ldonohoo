@@ -43,7 +43,7 @@ Took a break for parenting, but just completed a fast-paced 6 month full-time, i
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
     🌲🌳🌲 Fun Fact 🌲🌳🌲🌲🌲
-    I worked for two years as a wildlife biologist on the El Dorado National Forest in California (next to Lake Tahoe)
+    In between contract jobs, I worked for two summers as a wildlife biologist on the El Dorado National Forest in California (next to Lake Tahoe)
 
 
 
