@@ -46,7 +46,7 @@ lisa.donohoo@gmail.com
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
     🌲🌳🌲 Fun Fact 🌲🌳🌲🌲🌲
-   When I was contracting, I found time to work for two summers as a wildlife biologist on the El Dorado National Forest in California (next to Lake Tahoe)
+   To pursue an interest of mine, I arranged to work for two summers as a wildlife biologist on the El Dorado National Forest in California (next to Lake Tahoe), and did contracting in the off-season. Decided against full-time biology, but it was a great experience with no regrets 😊
 
 
 
