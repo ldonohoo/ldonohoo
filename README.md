@@ -14,6 +14,9 @@ Took a break for parenting, but just completed a fast-paced 6 month full-time, i
 🔆Connect with me 
 lisa.donohoo@gmail.com
 
+### Deployed Projects
+[Sunny Day](https://frozen-fjord-73076-43d37577bd65.herokuapp.com)
+
 ### Frontend Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
