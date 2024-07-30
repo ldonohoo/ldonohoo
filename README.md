@@ -15,7 +15,9 @@ Took a break for parenting, but just completed a fast-paced 6 month full-time, i
 lisa.donohoo@gmail.com
 
 ### Deployed Projects
-[Sunny Day](https://frozen-fjord-73076-43d37577bd65.herokuapp.com)
+[Solo Project: Sunny Day](https://frozen-fjord-73076-43d37577bd65.herokuapp.com)
+[Group Project: Nest 8](https://nest8prime-afb4bb276c02.herokuapp.com/#/home)
+[See a fun demo of Nest 8 in this video starting at about 35:05...](https://www.youtube.com/watch?v=AiFumQ3ZpaM)
 
 ### Frontend Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
