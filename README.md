@@ -9,7 +9,7 @@ I'm a Full Stack developer that really enjoys coding, learning new things, and w
 
 I have a BS in Computer Science from the University of Minnesota and 8+ years of experience in older tech dev.
 
-Took a break for parenting, but just completed a fast-paced 6 month full-time, in-person certification for Full-Stack Web Development that included a solo project and a pro-bono project for a great entrepeneur. Totally loving it...
+Took a break for parenting, but just completed a fast-paced 6 month full-time, in-person certification for Full-Stack Web Development that included a solo project and a pro-bono project for a great entrepeneur. Updating my tech stack and getting to teach myself new things every day has been one of the best things I have ever done! Totally loving it...
 
 🔆Connect with me 
 lisa.donohoo@gmail.com
