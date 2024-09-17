@@ -15,8 +15,10 @@ Took a break for parenting, but just completed a fast-paced 6 month full-time, i
 lisa.donohoo@gmail.com
 
 ### Deployed Projects
-[Solo Project: Sunny Day](https://frozen-fjord-73076-43d37577bd65.herokuapp.com)</br>
-[Group Project: Nest 8](https://nest8prime-afb4bb276c02.herokuapp.com/#/home)<pr>   <pr>    [Nest8 repo](https://github.com/ldonohoo/nest8)
+[Solo Project: Sunny Day](https://frozen-fjord-73076-43d37577bd65.herokuapp.com)
+[SunnyDay repo]()
+[Group Project: Nest 8](https://nest8prime-afb4bb276c02.herokuapp.com/#/home) 
+[Nest8 repo](https://github.com/ldonohoo/nest8)
 - watch a fun [demo of Nest 8](https://www.youtube.com/watch?v=AiFumQ3ZpaM) starting at about 35:05
 
 ### Frontend Skills
