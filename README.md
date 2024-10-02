@@ -45,6 +45,7 @@ lisa.donohoo@gmail.com
 
 
 ### Certifications
+[MongoDB Node.js Developer Path](https://learn.mongodb.com/c/gcpJ-qw7Td2UrhGJ9Jkyng)
 [AWS Cloud Practitioner CLF-C02 - Feb 2024](https://www.credly.com/badges/6c3e8dc3-0d0e-4dc6-a364-9c55b305dc22/public_url)
 
 ### Misc 
